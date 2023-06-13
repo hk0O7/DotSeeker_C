@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=DotSeeker
+Type=Application
+Terminal=false
+Icon=/home/hk007/DotSeeker-C/icon.png
+Exec=/home/hk007/DotSeeker-C/start_DotSeeker.sh
